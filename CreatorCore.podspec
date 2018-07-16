@@ -8,7 +8,7 @@ DESC
 s.homepage     = "http://EXAMPLE/MyFramework"
 s.license      = "Copyleft"
 s.author       = { "Junda" => "junda@just2us.com" }
-s.source       = { :path => '.' }
-# s.source       = { :git => "https://github/samwize/MyFramework", :tag => "#{s.version}" }
+#s.source       = { :path => '.' }
+s.source       = { :git => "https://github.com/vikipeter/creatorcore.git", :tag => "#{s.version}" }
 s.source_files  = "CreatorCore","Source/**/*.swift"
 end

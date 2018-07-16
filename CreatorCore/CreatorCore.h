@@ -6,7 +6,7 @@
 //  Copyright © 2018 AppDevs18. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for CreatorCore.
 FOUNDATION_EXPORT double CreatorCoreVersionNumber;
